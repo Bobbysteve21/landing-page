@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.banner-area
+{
+  background: url(https://preview.colorlib.com/theme/gaas/img/banner/xhome-banner.png.pagespeed.ic.gORzdDzPTH.png);
+    min-height: 100vh;
+}
